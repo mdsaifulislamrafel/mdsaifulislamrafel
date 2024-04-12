@@ -8,7 +8,7 @@ Skills:  REACT / JS / HTML / CSS / tailwindcss / Bootstrap
 
    
     
-<div style="display: flex">
+<div style="display: flex; justify-content: center">
     <div>
         - 🔭 I’m currently working on React <br>
         - 🌱 I’m currently learning firebase <br>
