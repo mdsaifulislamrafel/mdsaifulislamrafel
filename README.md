@@ -19,7 +19,5 @@ Skills:  REACT / JS / HTML / CSS / tailwindcss / Bootstrap
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsaifulislamrafel&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/mdsaifulislamrafel)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdsaifulislamrafel)  
 
