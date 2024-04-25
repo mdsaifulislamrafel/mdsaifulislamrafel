@@ -14,7 +14,6 @@ Skills:  REACT / JS / HTML / CSS / tailwindcss / Bootstrap / Node js / MongoDB /
 
 
 
-    <br />
 <div style="display: flex;">
     <div style="flex: 1;">
         - 🔭 I’m currently working on React <br>
