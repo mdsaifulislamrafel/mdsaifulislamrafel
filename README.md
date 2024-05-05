@@ -40,3 +40,8 @@ Skills: HTML / CSS / tailwindcss / Bootstrap / JS / REACT  / Node js / MongoDB /
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsaifulislamrafel&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdsaifulislamrafel)  
+
+<h2>Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
+
+
+![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
