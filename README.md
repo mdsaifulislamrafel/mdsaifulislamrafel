@@ -8,9 +8,7 @@ As a passionate Front End Web developer deeply entrenched in ReactJS, my primary
 Skills: HTML / CSS / tailwindcss / Bootstrap / Javascript / REACT js / Express js / Node js / MongoDB
 
    
- <div style="background-color: lightblue; padding: 20px;">
-        <img src="[https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966](https://images.pexels.com/photos/5475752/pexels-photo-5475752.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)" alt="I am GitHub Readme Generator's creator">
-    </div>
+
 
 
 
