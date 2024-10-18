@@ -7,7 +7,8 @@ As a passionate Front End Web developer deeply entrenched in ReactJS, my primary
 
 Skills: HTML / CSS / tailwindcss / Bootstrap / Javascript / REACT js / Node js / Express js / MongoDB
 
-   
+
+<img alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
 
