@@ -1,5 +1,5 @@
 # Hi 👋, I'm Md Saiful Islam Rafel
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=900&random=false&width=435&lines=Hey!!+I+am+Md.+Saiful+Islam+Rafel+;I+am+a+Front-End+Web+Developer.+;My+deep+knowledge+in-;HTML%2C+CSS%2C+Javascript%2C+React%2C;Aslo+known+as+Next.js%2C+Node+Js%2C+;Express+js%2C+MongoDB%2C+FireBase)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=900&random=false&width=435&lines=Hey!!+I+am+Developer+Rafel+;I+am+a+Front-End+Web+Developer.+;My+deep+knowledge+in-;HTML%2C+CSS%2C+Javascript%2C+React%2C;Aslo+known+as+Next.js%2C+Node+Js%2C+;Express+js%2C+MongoDB%2C+FireBase)](https://git.io/typing-svg)
 
 
 ### A passionate frontend developer from Bangladesh
