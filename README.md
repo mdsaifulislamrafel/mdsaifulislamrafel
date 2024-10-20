@@ -6,7 +6,25 @@
 
 As a passionate Front End Web developer deeply entrenched in ReactJS, my primary goal is crafting flawless websites that ensure 100% client satisfaction. I am fervently dedicated to continuous learning and transparent knowledge-sharing within the community. Real-world problem-solving is the cornerstone of my approach, always guided by strategic planning and clear goals. With a track record of delivering excellence, I pride myself on maintaining open communication and delivering high-quality work. My expertise lies primarily in ReactJS and JavaScript, where I leverage these technologies to create seamless user experiences and innovative solutions.
 
-Skills: HTML / CSS / tailwindcss / Bootstrap / Javascript / REACT js / Node js / Express js / MongoDB
+### Skills
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/python.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
+
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+</p>
 
 
 <img alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
