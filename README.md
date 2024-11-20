@@ -2,7 +2,7 @@
 
 ## A passionate Full Stack developer from Bangladesh
 
-***** As a passionate Front End Web developer deeply entrenched in ReactJS, my primary goal is crafting flawless websites that ensure 100% client satisfaction. I am fervently dedicated to continuous learning and transparent knowledge-sharing within the community. Real-world problem-solving is the cornerstone of my approach, always guided by strategic planning and clear goals. With a track record of delivering excellence, I pride myself on maintaining open communication and delivering high-quality work. My expertise lies primarily in ReactJS and JavaScript, where I leverage these technologies to create seamless user experiences and innovative solutions.
+##### As a passionate Front End Web developer deeply entrenched in ReactJS, my primary goal is crafting flawless websites that ensure 100% client satisfaction. I am fervently dedicated to continuous learning and transparent knowledge-sharing within the community. Real-world problem-solving is the cornerstone of my approach, always guided by strategic planning and clear goals. With a track record of delivering excellence, I pride myself on maintaining open communication and delivering high-quality work. My expertise lies primarily in ReactJS and JavaScript, where I leverage these technologies to create seamless user experiences and innovative solutions.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=900&random=false&width=435&lines=Hey!!+I+am+Developer+Rafel+;I+am+a+Front-End+Web+Developer.+;My+deep+knowledge+in-;HTML%2C+CSS%2C+Javascript%2C+React%2C;Aslo+known+as+Next.js%2C+Node+Js%2C+;Express+js%2C+MongoDB%2C+FireBase)](https://git.io/typing-svg)
 
