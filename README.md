@@ -1,6 +1,6 @@
 # Hi 👋, I'm Md Saiful Islam Rafel
 
-### A passionate frontend developer from Bangladesh
+### A passionate Full Stack developer from Bangladesh
 
 As a passionate Front End Web developer deeply entrenched in ReactJS, my primary goal is crafting flawless websites that ensure 100% client satisfaction. I am fervently dedicated to continuous learning and transparent knowledge-sharing within the community. Real-world problem-solving is the cornerstone of my approach, always guided by strategic planning and clear goals. With a track record of delivering excellence, I pride myself on maintaining open communication and delivering high-quality work. My expertise lies primarily in ReactJS and JavaScript, where I leverage these technologies to create seamless user experiences and innovative solutions.
 
