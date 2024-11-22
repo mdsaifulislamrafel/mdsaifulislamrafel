@@ -46,7 +46,7 @@
     <div style="flex: 1;">
        <br/>
         - 🔭 I’m currently working on React <br>
-        - 🌱 I’m currently learning firebase <br>
+        - 🌱 I’m currently learning full stack development <br>
         - 👯 I’m looking to collaborate on GitHub <br>
     </div>
 </div>
