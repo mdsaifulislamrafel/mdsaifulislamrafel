@@ -1,4 +1,4 @@
-<img alt="coding" width="1000" hight="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img alt="coding" width="1000" hight="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 # Hi 👋, I'm Md Saiful Islam Rafel
 
 ## A passionate Full Stack developer from Bangladesh
