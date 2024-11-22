@@ -6,7 +6,7 @@ As a passionate Full Stack developer deeply entrenched in ReactJS, my primary go
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=900&random=false&width=435&lines=Hey!!+I+am+Developer+Rafel+;I+am+a+Front-End+Web+Developer.+;My+deep+knowledge+in-;HTML%2C+CSS%2C+Javascript%2C+React%2C;Aslo+known+as+Next.js%2C+Node+Js%2C+;Express+js%2C+MongoDB%2C+FireBase)](https://git.io/typing-svg)
 
-### Skills
+### Skills <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
