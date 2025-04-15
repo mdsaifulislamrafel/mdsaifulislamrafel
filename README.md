@@ -10,7 +10,7 @@
     As a passionate Full Stack developer deeply entrenched in ReactJS, my primary goal is crafting flawless websites that ensure 100% client satisfaction. I am fervently dedicated to continuous learning and transparent knowledge-sharing within the community. Real-world problem-solving is the cornerstone of my approach, always guided by strategic planning and clear goals. With a track record of delivering excellence, I pride myself on maintaining open communication and delivering high-quality work. My expertise lies primarily in ReactJS and JavaScript, where I leverage these technologies to create seamless user experiences and innovative solutions.
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=900&random=false&width=435&lines=Hey!!+I+am+Developer+Rafel+;I+am+a+Front-End+Web+Developer.+;My+deep+knowledge+in-;HTML%2C+CSS%2C+Javascript%2C+React%2C;Aslo+known+as+Next.js%2C+Node+Js%2C+;Express+js%2C+MongoDB%2C+FireBase)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=900&random=false&width=435&lines=Hey!!+I+am+Developer+Rafel+;I+am+a+Full-Stack+Developer.+;My+deep+knowledge+in-;HTML%2C+CSS%2C+Javascript%2C+React%2C;Aslo+known+as+Next.js%2C+Node+Js%2C+;Express+js%2C+MongoDB%2C+FireBase)](https://git.io/typing-svg)
 
 <p align="left"> Skills <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></p>
 <p align="center">
