@@ -32,6 +32,8 @@
 <img src="./images/node.png"/>
 <img src="./images/express.png"/>
 <img src="./images/mongo.png"/>
+<img src="./images/vps.png"/>
+<img src="./images/cloudflare.png"/>
 </p>
 
 
