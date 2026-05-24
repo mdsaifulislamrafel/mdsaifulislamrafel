@@ -1,6 +1,6 @@
 <div align="center">
     <div align="center">
-    <img alt="coding" width="50%" src="bannergif.gif" />
+    <img alt="coding" width="50%" src="./images/bannergif.gif" />
 </div>
 <h2 align="left"> Hi 👋, I'm Md Saiful Islam Rafel</h2>
 
