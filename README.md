@@ -18,7 +18,7 @@
 <img src="./images/css.png"/>
 <img src="./images/JavaScript.png"/>
 <img src="./images/react.png"/>
-<img src="./images/nextjs.png"/>
+<!-- <img src="./images/nextjs.png"/> -->
 </p>
 <p align="center">
 
