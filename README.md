@@ -18,12 +18,12 @@
 <img src="./images/css.png"/>
 <img src="./images/JavaScript.png"/>
 <img src="./images/react.png"/>
+<img src="./images/nextjs.png"/>
 </p>
 <p align="center">
 
 
 
-<img src="./images/nextjs.png"/>
 <img src="./images/tailwind.png"/>
 <img src="./images/Bootsrap.png"/>
 <img src="./images/firebase.png"/>
