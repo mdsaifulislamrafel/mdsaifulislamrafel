@@ -156,11 +156,15 @@ jobs:
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsaifulislamrafel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsaifulislamrafel&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsaifulislamrafel&show_icons=true&count_private=true&theme=radical)
+<br/>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mdsaifulislamrafel&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=mdsaifulislamrafel&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=mdsaifulislamrafel&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
