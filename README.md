@@ -25,6 +25,7 @@
 
 
 <img src="./images/tailwind.png"/>
+<img src="./images/shadcnui.png"/>
 <img src="./images/Bootsrap.png"/>
 <img src="./images/firebase.png"/>
 </p>
