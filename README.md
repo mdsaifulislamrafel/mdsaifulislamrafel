@@ -156,11 +156,9 @@ jobs:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsaifulislamrafel&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+[![mdsaifulislamrafel's github stats](https://bad-apple-github-readme.vercel.app/api?username=mdsaifulislamrafel&show_icons=true&count_private=true&theme=radical&hide_border=true)](https://github.com/mdsaifulislamrafel)
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=mdsaifulislamrafel&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsaifulislamrafel&layout=compact&theme=radical&hide_border=true)](https://github.com/mdsaifulislamrafel)
 
 <br/>
 
