@@ -156,11 +156,11 @@ jobs:
 
 <div align="center">
 
-[![mdsaifulislamrafel's github stats](https://bad-apple-github-readme.vercel.app/api?username=mdsaifulislamrafel&show_icons=true&count_private=true&theme=radical&hide_border=true)](https://github.com/mdsaifulislamrafel)
+<!-- [![mdsaifulislamrafel's github stats](https://bad-apple-github-readme.vercel.app/api?username=mdsaifulislamrafel&show_icons=true&count_private=true&theme=radical&hide_border=true)](https://github.com/mdsaifulislamrafel)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsaifulislamrafel&layout=compact&theme=radical&hide_border=true)](https://github.com/mdsaifulislamrafel)
 
-<br/>
+<br/> -->
 
 <img src="https://streak-stats.demolab.com/?user=mdsaifulislamrafel&theme=radical&hide_border=true" alt="GitHub Streak" />
 
